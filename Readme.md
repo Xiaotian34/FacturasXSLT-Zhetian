@@ -1,4 +1,4 @@
-# Plantillas XSLT para FacturaE
+# Plantillas XSLT para Factura electrónica
 
 Este repositorio contiene dos plantillas XSLT diseñadas para transformar archivos XML de facturas en formato FacturaE a documentos HTML fácilmente legibles.
 
